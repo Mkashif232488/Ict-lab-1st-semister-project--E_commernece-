@@ -27,6 +27,7 @@ Contact Us: Provides information on how to contact the website owner.
 
 
 Setup Instructions:
+
 Open the html file in any browser to view its contents.
 
 
@@ -38,6 +39,7 @@ Feel free to contribute to the project by adding new features or improving exist
 
 Group members:
 M.Kashif 232488
+
 Anas Fiaz 232461
 
 
@@ -50,5 +52,6 @@ Anas= 232461@students.au.edu.pk
 
 
 Repository URL:
+
 https://github.com/Mkashif232488/Ict-lab-1st-semister-project--E_commernece-/edit/main/README.md
 
