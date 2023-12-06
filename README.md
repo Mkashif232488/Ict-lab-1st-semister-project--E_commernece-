@@ -1,7 +1,7 @@
 # Ict-lab-1st-semister-project--E_commernece-
 A semester project for a simple Ecommerce website
 
-E-commerce Website-Repository README
+E-commerce Website-Repository README-Planning Phase
 Project: Simple E-commerce Website
 
 Description:
