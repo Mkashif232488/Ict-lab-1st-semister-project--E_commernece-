@@ -13,11 +13,17 @@ This repository contains the source code for a simple e-commerce website with th
 
 
 Home page: Displays featured products and categories.
+
 Products: Users can browse products by category and view individual product details.
+
 Reviews: Users can submit and view reviews for individual products.
+
 Sales: Displays currently active sales and promotions.
+
 Deals: Highlights special offers and discounts on products.
+
 Contact Us: Provides information on how to contact the website owner.
+
 
 
 Setup Instructions:
