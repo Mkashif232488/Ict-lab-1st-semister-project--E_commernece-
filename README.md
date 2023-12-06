@@ -2,6 +2,7 @@
 A semester project for a simple Ecommerce website
 
 E-commerce Website-Repository README-Planning Phase
+
 Project: Simple E-commerce Website
 
 Description:
@@ -22,7 +23,6 @@ Additional Notes:
 
 This is a basic e-commerce website and can be customized further.
 Feel free to contribute to the project by adding new features or improving existing ones.
-
 
 Group members:
 M.Kashif 232488
